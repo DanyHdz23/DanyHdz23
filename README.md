@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Desarrollador de proyectos IoT**
 
-- 📫 How to reach me **Ignis_link@hotmail.com**
+- 📫 How to reach me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
